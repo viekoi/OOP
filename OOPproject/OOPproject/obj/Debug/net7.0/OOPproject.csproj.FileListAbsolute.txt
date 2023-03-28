@@ -1,0 +1,15 @@
+C:\workspace\vst\OOPproject\OOPproject\bin\Debug\net7.0\OOPproject.exe
+C:\workspace\vst\OOPproject\OOPproject\bin\Debug\net7.0\OOPproject.deps.json
+C:\workspace\vst\OOPproject\OOPproject\bin\Debug\net7.0\OOPproject.runtimeconfig.json
+C:\workspace\vst\OOPproject\OOPproject\bin\Debug\net7.0\OOPproject.dll
+C:\workspace\vst\OOPproject\OOPproject\bin\Debug\net7.0\OOPproject.pdb
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\OOPproject.csproj.AssemblyReference.cache
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\OOPproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\OOPproject.AssemblyInfoInputs.cache
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\OOPproject.AssemblyInfo.cs
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\OOPproject.csproj.CoreCompileInputs.cache
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\OOPproject.dll
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\refint\OOPproject.dll
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\OOPproject.pdb
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\OOPproject.genruntimeconfig.cache
+C:\workspace\vst\OOPproject\OOPproject\obj\Debug\net7.0\ref\OOPproject.dll
